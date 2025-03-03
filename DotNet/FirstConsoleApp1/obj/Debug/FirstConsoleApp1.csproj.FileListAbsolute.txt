@@ -1,0 +1,7 @@
+D:\DotNet2024\FirstConsoleApp1\bin\Debug\FirstConsoleApp1.exe.config
+D:\DotNet2024\FirstConsoleApp1\bin\Debug\FirstConsoleApp1.exe
+D:\DotNet2024\FirstConsoleApp1\bin\Debug\FirstConsoleApp1.pdb
+D:\DotNet2024\FirstConsoleApp1\obj\Debug\FirstConsoleApp1.csproj.AssemblyReference.cache
+D:\DotNet2024\FirstConsoleApp1\obj\Debug\FirstConsoleApp1.csproj.CoreCompileInputs.cache
+D:\DotNet2024\FirstConsoleApp1\obj\Debug\FirstConsoleApp1.exe
+D:\DotNet2024\FirstConsoleApp1\obj\Debug\FirstConsoleApp1.pdb
